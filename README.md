@@ -11,3 +11,4 @@ I'm a Junior Web Developer based in Berlin with a background in law. My focus ar
 # A few facts about me
 - I have almost 10 years of working experince in the financial sector;
 - I like challenges,  so from March 2023 I am doing a Web-development bootcampt at Spiced Academy in Berlin;
+- When I have free time I like playing piano and cook something for my family or my friends
