@@ -1,5 +1,5 @@
 # Welcome to my gitHub page!
-I'm a Junior Web Developer based in Berlin with a background in law. My focus area for the last year has been front-end development with JavaScript/HTML/CSS.Doing my first Coding Bootcampt from March 2023 till June 2023!
+I'm a Junior Web Developer based in Berlin with a background in law. My focus area for the last year has been front-end development with JavaScript/HTML/CSS. I am doing my first Coding Bootcampt from March 2023 till June 2023!
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47uo9cios9ejssxwqma7z08gng5p87nvewrf08ajm4&rid=giphy.gif&ct=g)">
