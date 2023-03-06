@@ -1,4 +1,5 @@
 # Welcome to my gitHub page!
+
 I'm a Junior Web Developer based in Berlin with a background in law. My focus area for the last year has been front-end development with JavaScript/HTML/CSS. I am doing my first Coding Bootcampt from March 2023 till June 2023!
 ---
 <picture>
