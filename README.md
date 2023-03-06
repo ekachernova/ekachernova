@@ -1,6 +1,6 @@
-# Welcome to my gitHub page!
+# Welcome to my gitHub page! :space_invader: :space_invader: :space_invader:
 
-I'm a Junior Web Developer based in Berlin with a background in law. My focus area for the last year has been front-end development with JavaScript/HTML/CSS. I am doing my first Coding Bootcampt from March 2023 till June 2023!
+I'm a Junior Web Developer based in Berlin with a background in law. My focus area for the last year has been front-end development with JavaScript/HTML/CSS. March 2023 - June 2023: I am doing a Coding Bootcampt at Spiced Academy Berlin! 	:rocket:
 
 
 <picture>
@@ -10,9 +10,10 @@ I'm a Junior Web Developer based in Berlin with a background in law. My focus ar
 </picture>
 
 # A few facts about me
-- I have almost 10 years of working experince in the financial sector;
-- I like challenges,  so from March 2023 I am doing a Web-development bootcampt at Spiced Academy in Berlin;
-- I like playing piano and cook something for my friends or family
+- I have almost 10 years of working experince in the financial sector as a corporate lawyer;
+- I like challenges;
+- I speak English, German and Russian;
+- I like playing piano :musical_keyboard: and cooking for my friends or family
 
 # I use these tools:
 - JavaScript
